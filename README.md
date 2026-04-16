@@ -1,17 +1,7 @@
 # Johnknaul
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0,0&height=180&section=header&text=Johnknaul&fontSize=70&fontColor=00ff00">
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nicokoenig/nico/main/./assets/transparent-glow.gif" width="100%">
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ff00&background=00000000&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%7C+Solidity+%26+Smart+Contracts+%7C+SC%2FBrazil" alt="Typing effect">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00ff00&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Solidity+%26+Smart+Contracts+%7C+SC%2FBrazil" alt="Johnknaul">
 </h1>
 
 <p align="center">
@@ -26,12 +16,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnknaul&theme=matrix&no-frame=true&column=-1&title=true&no-bg=true">
-</p>
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -40,7 +24,7 @@
 
 ---
 
-## Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnknaul&theme=matrix&show_icons=true&icon_color=00ff00&bg_color=00000000&border_color=00ff00&title_color=00ff00&text_color=00ff00">
@@ -52,7 +36,7 @@
 
 ---
 
-## Streak
+## Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnknaul&theme=matrix&border=00ff00&stroke=00ff00&fire=00ff00&ring=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&bg=000000">
@@ -60,9 +44,13 @@
 
 ---
 
+## Trophies
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0,0&height=80&section=footer&animation=blinking">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnknaul&theme=matrix&no-frame=true&column=-1&title=true&no-bg=true">
 </p>
+
+---
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=johnknaul&count_color=00ff00&style=for-the-badge&logo=ghost">
