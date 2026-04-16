@@ -23,7 +23,11 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,go,python,javascript,typescript,html,css,nodejs,git,docker,postgresql,react,web3,ethers,vscode,linux&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,go,python,javascript,typescript,vscode,linux,tailscale&perline=6&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,git,docker,postgresql,react,web3,ethers&perline=6&theme=dark">
 </p>
 
 ---
@@ -44,16 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnknaul&theme=github_dark&border=333333&stroke=00ff00&fire=00ff00&ring=00ff00&currStreakNum=00ff00&sideNums=cccccc&currStreakLabel=00ff00&sideLabels=cccccc&bg=000000">
-</p>
-
----
-
-## Main Projects
-
-<p align="center">
-  <a href="https://github.com/johnknaul/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnknaul&repo=Portfolio&theme=github_dark&show_icons=true&icon_color=00ff00&bg_color=000000&border_color=333333&title_color=00ff00&text_color=cccccc">
-  </a>
 </p>
 
 ---
