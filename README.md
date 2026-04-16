@@ -23,7 +23,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,go,python,javascript,typescript,html,css,nodejs,git,docker,postgresql,react,web3,ethers,vscode,linux,github,discord&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,go,python,javascript,typescript,html,css,nodejs,git,docker,postgresql,react,web3,ethers,vscode,linux&perline=8&theme=dark">
 </p>
 
 ---
@@ -69,9 +69,3 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=johnknaul&count_color=00ff00&style=for-the-badge&logo=ghost">
 </p>
-
-<!---
-Matrix Theme - Black & Green
-Developer | Solidity & Smart Contracts
-SC/Brazil
---->
