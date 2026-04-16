@@ -1,8 +1,14 @@
 # Johnknaul
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00ff00&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Developer+%7C+Solidity+%26+Smart+Contracts" alt="Johnknaul">
+  <a href="https://github.com/johnknaul">
+    <img src="https://img.shields.io/badge/Johnknaul-000?style=for-the-badge&logo=github&logoColor=00ff00">
+  </a>
 </h1>
+
+<p align="center">
+  Backend Developer | Solidity & Smart Contracts | SC/Brazil
+</p>
 
 <p align="center">
   <a href="https://x.com/johnknaul__"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=00ff00"></a>
@@ -27,11 +33,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnknaul&theme=matrix&show_icons=true&icon_color=00ff00&bg_color=00000000&border_color=00ff00&title_color=00ff00&text_color=00ff00">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnknaul&theme=radical&show_icons=true&icon_color=00ff00&bg_color=000000&border_color=00ff00&title_color=00ff00&text_color=00ff00">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnknaul&theme=matrix&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnknaul&theme=radical&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=000000">
 </p>
 
 ---
@@ -39,7 +45,7 @@
 ## Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnknaul&theme=matrix&border=00ff00&stroke=00ff00&fire=00ff00&ring=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&bg=000000">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnknaul&theme=radical&border=00ff00&stroke=00ff00&fire=00ff00&ring=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&bg=000000">
 </p>
 
 ---
@@ -47,7 +53,7 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnknaul&theme=matrix&no-frame=true&column=-1&title=true&no-bg=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnknaul&theme=radical&no-frame=true&column=-1&title=true&no-bg=true">
 </p>
 
 ---
