@@ -1,81 +1,104 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnknaul&show_icons=true&theme=radical" alt="Johnknaul's GitHub Stats">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,26,96,146,236&height=200&section=header&text=Johnknaul&fontSize=70&fontColor=fff" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nicokoenig/nico/main/./assets/transparent-glow.gif" width="100%" />
 </p>
 
 ---
 
-## 👋 Hello, I'm Johnknaul
-
-**Backend Developer** 🔥 | **Solidity & Smart Contracts** 💎 | **SC/Brazil** 🇧🇷
+<p align="center">
+  <img src="https://readme-jv.vercel.app/api/profile?username=johnknaul&dark=true&title=true&font_size=30&custom_bio=Backend+Dev+%F0%9F%94%A5+%7C+Solidity+%F0%9F%92%8E+%7C+Smart+Contracts&twitter=true&twitter_handle=johnknaul__&github=true&github_handle=johnknaul&linkedin=true&linkedin_handle=johnknaul&youtube=true&youtube_handle=johnknaul&twitch=true&twitch_handle=johnknaul&instagram=true&instagram_handle=johnknaul&discord=true&discord_id=784889922963636245" />
+</p>
 
 ---
 
-### 🔗 Connect with me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnknaul&theme=dracula&no-frame=true&column=-1&title=true&no-bg=true" />
+</p>
 
-<p align="left">
+---
+
+## ═══════════════════════════════════════
+## ⚡ TECH STACK
+## ═══════════════════════════════════════
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,python,javascript,typescript,nodejs,git,docker,postgresql,react,rust,web3,ethers&perline=6&theme=dark" />
+</p>
+
+---
+
+## ═══════════════════════════════════════
+## 📊 STATS
+## ═══════════════════════════════════════
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnknaul&theme=dracula&show_icons=true&icon_color=ff79c6&bg_color=1a1a2e,16213e,0f3460&border_color=ff6b9d&title_color=00fff5&text_color=ff79c6&ring=00fff5&fire=ff6b9d" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnknaul&theme=dracula&layout=compact&hide_border=true&title_color=00fff5&text_color=ff79c6&bg_color=1a1a2e" />
+</p>
+
+---
+
+## ═══════════════════════════════════════
+## 🏆 STREAK
+## ═══════════════════════════════════════
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnknaul&theme=dracula&border=ff6b9d&stroke=00fff5&fire=ff79c6&ring=00fff5&currStreakNum=00fff5&sideNums=ff79c6&currStreakLabel=ff6b9d&sideLabels=00fff5&bg=1a1a2e" />
+</p>
+
+---
+
+## ═══════════════════════════════════════
+## 🌐 CONNECT
+## ═══════════════════════════════════════
+
+<p align="center">
   <a href="https://x.com/johnknaul__" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="30">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=00fff5" height="35">
   </a>
   <a href="https://github.com/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="30">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ff79c6" height="35">
   </a>
-  <a href="https://github.com/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" height="30">
+  <a href="https://linkedin.com/in/johnknaul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00fff5" height="35">
   </a>
-  <a href="https://github.com/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch" height="30">
+  <a href="https://youtube.com/@johnknaul" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=ff6b9d" height="35">
   </a>
-  <a href="https://github.com/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" height="30">
+  <a href="https://twitch.com/johnknaul" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=00fff5" height="35">
+  </a>
+  <a href="https://instagram.com/johnknaul" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff79c6" height="35">
   </a>
   <a href="https://discord.com/users/784889922963636245" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" height="30">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00fff5" height="35">
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnknaul&theme=radical" alt="Johnknaul's Streak">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,15,26&height=100&section=footer&animation=blinking" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnknaul&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔥 Backend Specialist with expertise in **Solidity** and **Smart Contracts**
-- 💎 Building decentralized applications and blockchain solutions
-- 🇧🇷 Based in **SC/Brazil**
-- 📫 Reach me on [Twitter](https://x.com/johnknaul__)
-
----
-
-<p align="center">
-  <img src="https://github.com/Johnknaul/Johnknaul/assets/gif" alt="Developer Animation">
+  <img src="https://visit count.vercel.app/api/johnknaul?label=Profile+Views&countColor=ff79c6&style=for-the-badge&logo=ghost" />
 </p>
 
 <!---
-Johnknaul/Johnknaul is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+░▀▀█░█▀▀░█░█░█▀▀░░░▀█▀░█▀▀░█▀▄░█▄█░▀█▀░█▀█░█▀█░█░░░█▀▀░█▀▄
+░▄▀░░█▀▀░█░█░▀▀█░░░░█░░█▀▀░█▀▄░█░█░░█░░█░█░█▀█░█░░░█▀▀░█▀▄
+░▀▀▀░▀▀▀░▀▀▀░▀▀▀░░░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀
+
+💜 Synthwave/Vaporwave Theme
+🔗 All social links active
+💎 Backend Dev + Solidity
+🌴 SC/Brazil
 --->
