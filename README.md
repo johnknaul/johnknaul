@@ -1,7 +1,7 @@
 # Johnknaul
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00ff00&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Solidity+%26+Smart+Contracts+%7C+SC%2FBrazil" alt="Johnknaul">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00ff00&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Developer+%7C+Solidity+%26+Smart+Contracts" alt="Johnknaul">
 </h1>
 
 <p align="center">
@@ -58,6 +58,6 @@
 
 <!---
 Matrix Theme - Black & Green
-Backend Developer | Solidity & Smart Contracts
+Developer | Solidity & Smart Contracts
 SC/Brazil
 --->
