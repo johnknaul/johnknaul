@@ -2,14 +2,40 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,26,96,146,236&height=200&section=header&text=Johnknaul&fontSize=70&fontColor=fff" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nicokoenig/nico/main/./assets/transparent-glow.gif" width="100%" />
 </p>
 
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00fff5&background=1A1A2E00&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer+%F0%9F%94%A5%7CSolidity+%26+Smart+Contracts+%F0%9F%92%8E%7CSC%2FBrazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Johnknaul">
+</h1>
+
 <p align="center">
-  <img src="https://readme-jv.vercel.app/api/profile?username=johnknaul&dark=true&title=true&font_size=30&custom_bio=Backend+Dev+%F0%9F%94%A5+%7C+Solidity+%F0%9F%92%8E+%7C+Smart+Contracts&twitter=true&twitter_handle=johnknaul__&github=true&github_handle=johnknaul&linkedin=true&linkedin_handle=johnknaul&youtube=true&youtube_handle=johnknaul&twitch=true&twitch_handle=johnknaul&instagram=true&instagram_handle=johnknaul&discord=true&discord_id=784889922963636245" />
+  <a href="https://x.com/johnknaul__">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=00fff5" height="30">
+  </a>
+  <a href="https://github.com/johnknaul">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ff79c6" height="30">
+  </a>
+  <a href="https://linkedin.com/in/johnknaul">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00fff5" height="30">
+  </a>
+  <a href="https://youtube.com/@johnknaul">
+    <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=ff6b9d" height="30">
+  </a>
+  <a href="https://twitch.com/johnknaul">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=00fff5" height="30">
+  </a>
+  <a href="https://instagram.com/johnknaul">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff79c6" height="30">
+  </a>
+  <a href="https://discord.com/users/784889922963636245">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00fff5" height="30">
+  </a>
 </p>
 
 ---
@@ -54,42 +80,12 @@
 
 ---
 
-## ═══════════════════════════════════════
-## 🌐 CONNECT
-## ═══════════════════════════════════════
-
-<p align="center">
-  <a href="https://x.com/johnknaul__" target="_blank">
-    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=00fff5" height="35">
-  </a>
-  <a href="https://github.com/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ff79c6" height="35">
-  </a>
-  <a href="https://linkedin.com/in/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00fff5" height="35">
-  </a>
-  <a href="https://youtube.com/@johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=ff6b9d" height="35">
-  </a>
-  <a href="https://twitch.com/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=00fff5" height="35">
-  </a>
-  <a href="https://instagram.com/johnknaul" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff79c6" height="35">
-  </a>
-  <a href="https://discord.com/users/784889922963636245" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00fff5" height="35">
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,15,26&height=100&section=footer&animation=blinking" />
 </p>
 
 <p align="center">
-  <img src="https://visit count.vercel.app/api/johnknaul?label=Profile+Views&countColor=ff79c6&style=for-the-badge&logo=ghost" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=johnknaul&count_color=ff79c6&style=for-the-badge&logo=ghost" />
 </p>
 
 <!---
